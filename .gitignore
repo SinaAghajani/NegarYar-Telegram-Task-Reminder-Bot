@@ -1,0 +1,78 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Test
+test-results/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# IDE
+.idea/
+*.iml
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Build / cache
+dist/
+build/
+.next/
+out/
+.turbo/
+
+# Vercel
+.vercel/
+
+# Environment / deployment
+*.local
+
+# cPanel / hosting
+.cpanel/
+public_html/
+
+# Database dumps
+*.sql
+*.sql.gz
+*.dump
+
+# Secrets / certificates
+*.pem
+*.key
+*.crt
+
+# Backup files
+*.bak
+*.backup
