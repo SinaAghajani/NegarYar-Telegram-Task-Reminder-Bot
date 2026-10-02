@@ -202,7 +202,7 @@ Telegram User
 Repository را Clone کنید:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/negar-yar.git
+git clone https://github.com/SinaAghajani/NegarYar-Telegram-Task-Reminder-Bot.git
 ```
 
 و وارد پروژه شوید:
